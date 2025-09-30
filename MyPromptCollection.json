@@ -1,0 +1,34 @@
+{
+  "prompts": [
+   {
+      "PromptTitle": "SQL Query Optimizer",
+      "PromptDescription": "Reviews and optimizes SQL queries for better performance, readability, and maintainability. Suggests indexing strategies and query restructuring.",
+      "VersionNumber": "2.5",
+      "Tags": ["sql", "database", "optimization", "performance", "coding"]
+    },
+    {
+      "PromptTitle": "Project Requirements Analyzer",
+      "PromptDescription": "Breaks down complex project requirements into manageable tasks, identifies dependencies, and estimates effort for better project planning.",
+      "VersionNumber": "1.4",
+      "Tags": ["project-management", "requirements", "planning", "analysis"]
+    },
+    {
+      "PromptTitle": "Creative Writing Assistant",
+      "PromptDescription": "Helps develop compelling narratives, character development, plot structures, and dialogue for creative writing projects.",
+      "VersionNumber": "1.6",
+      "Tags": ["creative-writing", "storytelling", "narrative", "character-development"]
+    },
+    {
+      "PromptTitle": "API Design Reviewer",
+      "PromptDescription": "Reviews REST API designs for consistency, best practices, security considerations, and developer experience optimization.",
+      "VersionNumber": "2.4",
+      "Tags": ["api", "design", "rest", "architecture", "best-practices", "security"]
+    },
+    {
+      "PromptTitle": "Brand Voice Consistency Checker",
+      "PromptDescription": "Ensures marketing and communication materials maintain consistent brand voice, tone, and messaging across all channels.",
+      "VersionNumber": "1.2",
+      "Tags": ["branding", "marketing", "communication", "consistency", "voice"]
+    }
+  ]
+}
