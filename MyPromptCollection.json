@@ -1,34 +1,22 @@
 {
   "prompts": [
-   {
-      "PromptTitle": "SQL Query Optimizer",
-      "PromptDescription": "Reviews and optimizes SQL queries for better performance, readability, and maintainability. Suggests indexing strategies and query restructuring.",
-      "VersionNumber": "2.5",
-      "Tags": ["sql", "database", "optimization", "performance", "coding"]
+    {
+      "PromptTitle": "Prompt Optimizer",
+      "PromptDescription": "You are an expert prompt engineer specializing in creating prompts for AI language models, particularly <ChatGPT5 Thinking model>. \n\nYour task is to take my prompt and transform it into a well-crafted and effective prompt that will elicit optimal responses.\n\n## Here is my initial prompt:",
+      "VersionNumber": "1.0",
+      "Tags": ["Tips","Generic"]
     },
     {
-      "PromptTitle": "Project Requirements Analyzer",
-      "PromptDescription": "Breaks down complex project requirements into manageable tasks, identifies dependencies, and estimates effort for better project planning.",
-      "VersionNumber": "1.4",
-      "Tags": ["project-management", "requirements", "planning", "analysis"]
+      "PromptTitle": "GPT-5 Model Tricks",
+      "PromptDescription": "1) Router Nudge - Think hard about this. | Think deeply about this. | Think carefully.\n2) Verbosity Control - Low: Give me the bottom line in 100 words or less, use markdown for clarity and structure. | Medium: Aim for a concise 3-5 paragraph explanation. | High: Provide a comprehensive and detailed breakdown (600-800 words).\n3) Self critic - Before you respond, create an internal rubric for what defines a 'world-class' answer to my request. then internally iterate on your work until it scores 10/10 against that rubric, and show me only the final, perfect output.",
+      "VersionNumber": "0.1",
+      "Tags": ["Tips","Generic","GPT-5"]
     },
     {
-      "PromptTitle": "Creative Writing Assistant",
-      "PromptDescription": "Helps develop compelling narratives, character development, plot structures, and dialogue for creative writing projects.",
-      "VersionNumber": "1.6",
-      "Tags": ["creative-writing", "storytelling", "narrative", "character-development"]
-    },
-    {
-      "PromptTitle": "API Design Reviewer",
-      "PromptDescription": "Reviews REST API designs for consistency, best practices, security considerations, and developer experience optimization.",
-      "VersionNumber": "2.4",
-      "Tags": ["api", "design", "rest", "architecture", "best-practices", "security"]
-    },
-    {
-      "PromptTitle": "Brand Voice Consistency Checker",
-      "PromptDescription": "Ensures marketing and communication materials maintain consistent brand voice, tone, and messaging across all channels.",
-      "VersionNumber": "1.2",
-      "Tags": ["branding", "marketing", "communication", "consistency", "voice"]
+      "PromptTitle": "",
+      "PromptDescription": "",
+      "VersionNumber": "0.1",
+      "Tags": ["a", "b"]
     }
   ]
 }
