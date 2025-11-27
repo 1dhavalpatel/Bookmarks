@@ -4,7 +4,7 @@
       "PromptTitle": "Prompt Optimizer",
       "PromptDescription": "You are an expert prompt engineer specializing in creating prompts for AI language models, particularly <ChatGPT5 Thinking model>. \n\nYour task is to take my prompt and transform it into a well-crafted and effective prompt that will elicit optimal responses.\n\n## Here is my initial prompt:",
       "VersionNumber": "1.0",
-      "Tags": ["Tips","Generic"]
+      "Tags": ["Tips","Generic", "Optimization"]
     },
     {
       "PromptTitle": "GPT-5 Model Tricks",
@@ -13,8 +13,14 @@
       "Tags": ["Tips","Generic","GPT-5"]
     },
     {
-      "PromptTitle": "",
-      "PromptDescription": "",
+      "PromptTitle": "Meta Prompt",
+      "PromptDescription": "Improve the following prompt to generate a more detailed summary. \n Adhere to prompt engineering best practices. \n Make sure the structure is clear and intuitive and contains the type of news, tags and sentiment analysis. \n {simple_prompt} \n Only return the prompt.",
+      "VersionNumber": "0.1",
+      "Tags": ["Tips", "Meta", "Optimization"]
+    },
+    {
+      "PromptTitle": "test",
+      "PromptDescription": "test test test",
       "VersionNumber": "0.1",
       "Tags": ["a", "b"]
     }
