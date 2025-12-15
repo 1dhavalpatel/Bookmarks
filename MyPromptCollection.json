@@ -4,13 +4,7 @@
       "PromptTitle": "Prompt Optimizer",
       "PromptDescription": "You are an expert prompt engineer specializing in creating prompts for AI language models, particularly <ChatGPT5 Thinking model>. \n\nYour task is to take my prompt and transform it into a well-crafted and effective prompt that will elicit optimal responses.\n\n## Here is my initial prompt:",
       "VersionNumber": "1.0",
-      "Tags": ["Tips","Generic", "Optimization"]
-    },
-    {
-      "PromptTitle": "GPT-5 Model Tricks",
-      "PromptDescription": "1) Router Nudge - Think hard about this. | Think deeply about this. | Think carefully.\n2) Verbosity Control - Low: Give me the bottom line in 100 words or less, use markdown for clarity and structure. | Medium: Aim for a concise 3-5 paragraph explanation. | High: Provide a comprehensive and detailed breakdown (600-800 words).\n3) Self critic - Before you respond, create an internal rubric for what defines a 'world-class' answer to my request. then internally iterate on your work until it scores 10/10 against that rubric, and show me only the final, perfect output.",
-      "VersionNumber": "0.1",
-      "Tags": ["Tips","Generic","GPT-5"]
+      "Tags": ["Tips","Generic", "Optimization", "Meta"]
     },
     {
       "PromptTitle": "Meta Prompt",
@@ -19,10 +13,40 @@
       "Tags": ["Tips", "Meta", "Optimization"]
     },
     {
-      "PromptTitle": "test",
-      "PromptDescription": "test test test",
+      "PromptTitle": "GPT-5 Model Tricks",
+      "PromptDescription": "1) Router Nudge - Think hard about this. | Think deeply about this. | Think carefully.\n2) Verbosity Control - Low: Give me the bottom line in 100 words or less, use markdown for clarity and structure. | Medium: Aim for a concise 3-5 paragraph explanation. | High: Provide a comprehensive and detailed breakdown (600-800 words).\n3) Self critic - Before you respond, create an internal rubric for what defines a 'world-class' answer to my request. then internally iterate on your work until it scores 10/10 against that rubric, and show me only the final, perfect output.",
       "VersionNumber": "0.1",
-      "Tags": ["a", "b"]
+      "Tags": ["Tips","Generic","GPT-5"]
+    },
+    {
+      "PromptTitle": "Reduce Hallucination",
+      "PromptDescription": "Don't hallucinate, ground your results in the provided data. If data is missing, say \"not enough info\" instead of guessing.",
+      "VersionNumber": "0.1",
+      "Tags": ["Tips", "RAG", "Optimization"]
+    },
+    {
+      "PromptTitle": "Iterate and Refine",
+      "PromptDescription": "The first draft is rarely the final. Treat prompts like a conversation; tweak wording, add detail, narrow scope until the output clicks.",
+      "VersionNumber": "0.1",
+      "Tags": ["Tips"]
+    },
+    {
+      "PromptTitle": "Reverse Engineering - 1",
+      "PromptDescription": "Reverse Engineering this conver and write the single prompt that would have produced my final response in one go.",
+      "VersionNumber": "0.1",
+      "Tags": ["Tips"]
+    },
+    {
+      "PromptTitle": "Reverse Engineering - 2",
+      "PromptDescription": "Based on this logo I have provided, I need you to generate an advanced prompt to reverse engineer this output if I want to create something similar for my company called \" Company Name\" ",
+      "VersionNumber": "0.1",
+      "Tags": ["Tips"]
+    },
+    {
+      "PromptTitle": "The Red Team Technique",
+      "PromptDescription": "1)As a senior professor in the field of AI, help me create introduction to AI in 10 bullet points. 2)As an experienced developer, who has good hold on technology, review the bullet points given to you and identify some points which don't add much value. ",
+      "VersionNumber": "0.1",
+      "Tags": ["Tips"]
     }
   ]
 }
