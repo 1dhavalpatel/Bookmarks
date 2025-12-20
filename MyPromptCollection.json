@@ -32,7 +32,7 @@
     },
     {
       "PromptTitle": "Reverse Engineering - 1",
-      "PromptDescription": "Reverse Engineering this conver and write the single prompt that would have produced my final response in one go.",
+      "PromptDescription": "Reverse Engineering this conversation and write the single prompt that would have produced my final response in one go.",
       "VersionNumber": "0.1",
       "Tags": ["Tips"]
     },

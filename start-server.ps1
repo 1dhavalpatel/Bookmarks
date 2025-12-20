@@ -1,5 +1,5 @@
 # Simple HTTP Server using PowerShell and .NET
-param([int]$Port = 8000)
+param([int]$Port = 8081)
 
 Write-Host "Starting HTTP Server on port $Port..." -ForegroundColor Green
 Write-Host "Navigate to: http://localhost:$Port/DP_PromptLibrary.html" -ForegroundColor Cyan
