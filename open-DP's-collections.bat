@@ -1,5 +1,5 @@
 @echo off
-echo Starting Prompt Library...
+echo Starting DP's HTML Library (Prompts, Checklists, Market)...
 echo.
 
 REM Navigate to the bookmarks directory
@@ -16,13 +16,16 @@ if errorlevel 1 (
 
 echo Python found. Starting HTTP server on port 8081...
 echo.
-echo The Prompt Library will open in your default browser shortly.
+echo Opening all HTML files in your default browser:
+echo - Prompt Library
+echo - Checklist Library  
 echo.
 echo To stop the server, press Ctrl+C in this window.
 echo ================================================================
 
-REM Start the HTTP server in background and open browser
+REM Start the HTTP server in background and open all HTML files
 start "" http://localhost:8081/DP_PromptLibrary.html
+start "" http://localhost:8081/DP_ChecklistLibrary.html
 
 REM Wait a moment for the server to start before opening browser
 timeout /t 2 /nobreak >nul

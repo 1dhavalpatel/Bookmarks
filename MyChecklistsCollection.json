@@ -1,0 +1,23 @@
+{
+  "checklists": [
+    {
+      "ChecklistName": "SME IPO",
+      "ChecklistDescription": "Pre-investment checklist for SME IPO evaluation",
+      "Items": [
+        "Is GMP > 15%?",
+        "Has anchor investors or > 3x subscription from QIP?",
+        "Has over subscribed?",
+        "Not taking a hasty decision?"
+      ]
+    },
+    {
+      "ChecklistName": "one more test",
+      "ChecklistDescription": "test",
+      "Items": [
+        "one",
+        "two",
+        "three"
+      ]
+    }
+  ]
+}
