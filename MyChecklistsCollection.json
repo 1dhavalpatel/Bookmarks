@@ -11,12 +11,18 @@
       ]
     },
     {
-      "ChecklistName": "one more test",
-      "ChecklistDescription": "test",
+      "ChecklistName": "Option Selling",
+      "ChecklistDescription": "Checklist for Option Selling",
       "Items": [
-        "one",
-        "two",
-        "three"
+        "Script has good F&O volume?",
+        "In daily and weekly bullish trend?",
+        "IVP > 60?",
+        "Diff between strike and spot > 10%?",
+        "Payout in the range of 3-4% (No GREED)",
+        "RSI is not > 70 (overbought range)?",
+		"Considered spreads?",
+        "Not taking a hasty decision?",
+        "Not a compulsive trade?"
       ]
     }
   ]
